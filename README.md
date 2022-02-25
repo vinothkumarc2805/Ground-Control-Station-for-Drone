@@ -8,7 +8,7 @@ This software also integrated with LAANC approvals APIs and different other API 
 This Saas has multiple View such as Fly View, Plan View, Setup View, Order Management View, Franchisee View,  Use View, Admin View
 
  DO-178C certification for the SaaS
- QT, QML and C++ Framework 
+ QT, QML and C++ Frameworks
  Cross platform and one code base for all OS, Mobile Application
  Planned to be an AWS Cloud based Application.
  Dockers and Kubernetes to be planned for Container Orchestrations
